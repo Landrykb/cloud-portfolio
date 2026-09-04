@@ -1,11 +1,8 @@
 # What Is ESG? E, S and G Explained
 
-**Provider:** ESG & Decarbonization (ESG)  
-**Section:** Foundations  
-**Level:** Beginner ⭐  
 **Skills:** `esg-literacy`, `definitions`
 
-## Mission Briefing
+## Description
 
 ESG stands for Environmental, Social, and Governance.
 
@@ -15,5 +12,3 @@ ESG stands for Environmental, Social, and Governance.
 
 Companies are rated by agencies (MSCI, Sustainalytics) and investors use those scores to allocate capital. Learn the vocabulary before touching any cloud service.
 
----
-*Completed via [BleepxCloud](https://bleepxacademy.vercel.app/cloud) — cloud architecture & certification training.*
